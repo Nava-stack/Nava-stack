@@ -2,22 +2,34 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="18%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="18%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Navarasan Thirunavukkarasu</h1>
-<h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
+<h3 align="center">Passionate Full-stack developer from Sri Lanka</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nava-stack&label=Profile%20views&color=0e75b6&style=flat" alt="nava-stack" /> </p>
 
-## About Me
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 🌱 I’m currently learning **MERN Stack and React Native Development**
 
-- 👯 I’m looking to collaborate on **solutions that will be helpful in career growth.**
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+
+- 🌱 Currently learning **MERN , PERN & Blockchain Technology**
+
+- 🧑‍🎓 An Software Engineering Undergraduate of **LMU**
+
+- 👯 Looking for collaboration on **building solutions**
 
 - 💬 Ask me about **React,C#,Java,Python,PHP**
 
 - 📫 How to reach me **navarasan84@gmail.com**
 
-- ⚡ Fun fact **Call me as Rasan**
+- ⚡ Fun fact **Call me as Nandy**
 
+</td>
+<td width="50%" align="center">
+  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+</td>
+</tr>
+</table>
+---
 <br>
 <h3 align="left">Connect with Me</h3>
 

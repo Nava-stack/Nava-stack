@@ -69,4 +69,12 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br/>
 
+## <img src="https://raw.githubusercontent.com/Nava-stack/Nava-stack/main/gifs/haha.gif" width="25px"> Github stats
+
+<p align="center">
+    <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=Nava-stack&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
+    /> <br>
+    <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nava-stack&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
+</p>
+
 <p align="right" > Created with 🧡 by <a href="#">Navarasan Thirunavukkarasu</a></p>

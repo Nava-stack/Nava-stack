@@ -36,37 +36,37 @@
 <hr style="border: 3px solid #444; width: 90%; margin: 0 auto;">
 
 <!--Languages and Tools Section-->  
-<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="22"> Programming Languages & Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="22"> </h2>
+<h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="22"> Programming Languages & Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="22"> </h3>
 
-<h3 align="center">Frontend:</h3>
+<h4 align="center">Frontend:</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,ts,js,jquery,react,nextjs,redux,tailwind,bootstrap,styledcomponents,materialui" />
   </a>
 </p>
 
-<h3 align="center">Backend:</h3>
+<h4 align="center">Backend:</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,java,nodejs,py,express,cs,dotnet" />
   </a>
 </p>
 
-<h3 align="center">Databases:</h3>
+<h4 align="center">Databases:</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,mssql" />
   </a>
 </p>
 
-<h3 align="center">Cloud Servers:</h3>
+<h4 align="center">Cloud Servers:</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,kubernetes,docker,terraform,firebase,vercel,gcp" />
   </a>
 </p>
 
-<h3 align="center">Tools:</h3>
+<h4 align="center">Tools:</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,visualstudio,figma,vscode,postman,windows,linux,bash,npm,androidstudio" />
@@ -110,6 +110,8 @@
     </td>
   </tr> -->
 </table>
+<!-- Thick Line -->
+<hr style="border: 3px solid #444; width: 90%; margin: 0 auto;">
 
 <!--Connect with Me Section--> 
 <h3 align="center">Connect with me:</h3>
@@ -120,9 +122,12 @@
 <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="navarasan" height="50" width="50" /></a>
 </p>
 
+<!-- Thick Line -->
+<hr style="border: 3px solid #444; width: 90%; margin: 0 auto;">
+
+<!--Support Me Section--> 
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/nava-stack"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nava-stack" /></a></p>
-
+<br><br>
 <p align="right" > Created with 🧡 by <a href="#">Navarasan Thirunavukkarasu</a></p>
-<br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">

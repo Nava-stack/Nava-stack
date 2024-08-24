@@ -75,19 +75,25 @@
 <!-- My Statistics -->  
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22"> My Statistics <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22"> </h2>
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-    <img align="center" alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=Nava-stack&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
-    /> <br><br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nava-stack&theme=algolia&hide_border=false" /> <br><br>
-  <a href="https://github.com/Nava-stack/dbank">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Nava-stack&repo=dbank&theme=algolia&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="dbank" />
+<table align="center" width="100%">
+<tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Nava-stack">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=nava-stack&count_private=true&show_icons=true&theme=algolia&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
-<td width="50%" align="center">
-<img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nava-stack&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=10&hide=hack,swift,kotlin,objective-c"/>
- </td>
-</tr>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Nava-stack">
+          <img align="center" src="https://streak-stats.demolab.com?user=Nava-stack&theme=algolia&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 <!--Connect with Me Section--> 

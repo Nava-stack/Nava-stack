@@ -74,11 +74,13 @@
 </p>
 
 <br/>
+<!-- Thick Line -->
+<hr style="border: 3px solid #444; width: 90%; margin: 0 auto;">
 
 <!-- My Statistics -->  
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22"> My Statistics <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22"> </h2>
 
-<table align="center" width="100%">
+<table align="center">
 <tr>
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>

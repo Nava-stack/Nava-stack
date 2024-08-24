@@ -86,7 +86,7 @@
       <h4 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h4>
       <p align="center">
         <a href="https://github.com/Nava-stack">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=nava-stack&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=nava-stack&count_private=true&show_icons=true&theme=algolia&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -94,7 +94,7 @@
       <h4 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h4>
       <p align="center">
         <a href="https://github.com/Nava-stack">
-          <img align="center" src="https://streak-stats.demolab.com?user=Nava-stack&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=Nava-stack&theme=algolia&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -105,7 +105,7 @@
       <h4 align="center"><strong>Language Percentages</strong></h4>
       <p align="center">
         <a href="https://github.com/Nava-stack">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nava-stack&theme=nightowl&langs_count=8&layout=compact" alt="Language Stats">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nava-stack&theme=algolia&langs_count=20&layout=compact" alt="Language Stats">
         </a>
       </p>
     </td>

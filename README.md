@@ -1,3 +1,5 @@
+![banner](banner-new.png)
+
 <picture ><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 150px ></picture>
 
 <h1 align="center">Hi 👋, I'm Navarasan Thirunavukkarasu</h1>

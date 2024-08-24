@@ -33,7 +33,7 @@
 </table>
 
 <!--Languages and Tools Section-->  
-<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> Programming Languages & Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> </h2>
+<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="22"> Programming Languages & Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="22"> </h2>
 
 <h3 align="center">Frontend:</h3>
 <p align="center">
@@ -59,7 +59,7 @@
 <h3 align="center">Cloud Servers:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,kubernetes,terraform,firebase,vercel,gcp" />
+    <img src="https://skillicons.dev/icons?i=azure,kubernetes,docker,terraform,firebase,vercel,gcp" />
   </a>
 </p>
 
@@ -70,7 +70,8 @@
   </a>
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b> Github Stats</b>
+<!-- My Statistics -->  
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22"> My Statistics <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22"> </h2>
 
 <p align="center">
     <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=Nava-stack&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"

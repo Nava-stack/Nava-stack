@@ -1,10 +1,10 @@
 ![banner](banner-new.png)
+
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="18%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="18%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Navarasan Thirunavukkarasu</h1>
 <h3 align="center">Passionate Full-stack developer from Sri Lanka</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nava-stack&label=Profile%20views&color=0e75b6&style=flat" alt="nava-stack" /> </p>
-
 
 
 <table align="center">
@@ -15,7 +15,7 @@
 
 - 🧑‍🎓 An Software Engineering Undergraduate of **LMU**
 
-- 👯 Looking for collaboration on **building solutions**
+- 👯 Looking for collaboration on **Building excellent Solutions**
 
 - 💬 Ask me about **React,C#,Java,Python,PHP**
 
@@ -29,7 +29,9 @@
 </td>
 </tr>
 </table>
----
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <br>
 <h3 align="left">Connect with Me</h3>
 
@@ -42,8 +44,8 @@
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
+<!--Languages and Tools Section-->  
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ </h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
 - 📋 Backend
 <p align="left">

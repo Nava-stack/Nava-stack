@@ -82,6 +82,7 @@
 
 <table align="center">
 <tr>
+    <!-- First Column: GitHub Stats and Streak Stats -->
     <td width="50%">
       <h4 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h4>
       <p align="center">
@@ -89,8 +90,6 @@
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=nava-stack&count_private=true&show_icons=true&theme=algolia&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
-    </td>
-    <td width="50%">
       <h4 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h4>
       <p align="center">
         <a href="https://github.com/Nava-stack">
@@ -98,10 +97,8 @@
         </a>
       </p>
     </td>
-  </tr>
-  <!-- Languages used Stats -->
-  <tr>
-    <td colspan="2">
+    <!-- Second Column: Language Percentages -->
+    <td width="50%">
       <h4 align="center"><strong>Language Percentages</strong></h4>
       <p align="center">
         <a href="https://github.com/Nava-stack">
@@ -109,7 +106,7 @@
         </a>
       </p>
     </td>
-  </tr>
+</tr>
 </table>
 <!-- Thick Line -->
 <hr style="border: 3px solid #444; width: 90%; margin: 0 auto;">

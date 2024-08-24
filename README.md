@@ -70,14 +70,22 @@
   </a>
 </p>
 
+<br/>
+
 <!-- My Statistics -->  
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22"> My Statistics <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22"> </h2>
 
-<p align="center">
-    <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=Nava-stack&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
-    /> <br>
-    <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nava-stack&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
-</p>
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+    <img align="center" alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=Nava-stack&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
+    /> <br><br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nava-stack&theme=dark&hide_border=false" /> 
+<td width="50%" align="center">
+<img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nava-stack&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
+ </td>
+</tr>
+</table>
 
 <!--Connect with Me Section--> 
 <h2 align="center">Connect with Me</h2>

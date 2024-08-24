@@ -105,7 +105,7 @@
       <h4 align="center"><strong>Language Percentages</strong></h4>
       <p align="center">
         <a href="https://github.com/Nava-stack">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nava-stack&theme=algolia&langs_count=20&layout=compact" alt="Language Stats">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nava-stack&theme=algolia&langs_count=20&layout=layout=donut-vertical" alt="Language Stats">
         </a>
       </p>
     </td>

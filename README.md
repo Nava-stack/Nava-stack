@@ -80,7 +80,10 @@
 <td width="50%" align="center">
     <img align="center" alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=Nava-stack&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
     /> <br><br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nava-stack&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nava-stack&theme=dark&hide_border=false" /> <br><br>
+  <a href="https://github.com/Nava-stack/dbank">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Nava-stack&repo=dbank&theme=algolia&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="dbank" />
+        </a>
 <td width="50%" align="center">
 <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nava-stack&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
  </td>

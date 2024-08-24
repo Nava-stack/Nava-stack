@@ -9,7 +9,7 @@
 
 <table align="center">
 <tr border="none">
-<td width="70%" align="left">
+<td width="65%" align="left">
 
 - 🌱 Currently learning **MERN , PERN & Blockchain Technology**
 
@@ -24,8 +24,8 @@
 - ⚡ Fun fact **Call me as Nandy**
 
 </td>
-<td width="30%" align="center">
-  <picture> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
+<td width="35%" align="center">
+  <picture> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
 </td>
 </tr>
 </table>

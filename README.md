@@ -99,7 +99,7 @@
     </td>
     <!-- Second Column: Language Percentages -->
     <td width="50%">
-      <h4 align="center"><strong>Language Percentages</strong></h4>
+      <h4 align="center"><strong>Lᴀɴɢᴜᴀɢᴇ Pᴇʀᴄᴇɴᴛᴀɢᴇs</strong></h4>
       <p align="center">
         <a href="https://github.com/Nava-stack">
           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nava-stack&theme=algolia&langs_count=8&layout=donut-vertical" alt="Language Stats">
@@ -126,6 +126,6 @@
 <!--Support Me Section--> 
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/nava-stack"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nava-stack" /></a></p>
-<br><br>
+<br>
 <p align="right" > Created with 🧡 by <a href="#">Navarasan Thirunavukkarasu</a></p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">

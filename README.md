@@ -99,7 +99,7 @@
       <h3 align="center"><strong>Language Percentages</strong></h3>
       <p align="center">
         <a href="https://github.com/Nava-stack">
-          ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nava-stack&langs_count=8&layout=compact)
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nava-stack&theme=algolia&langs_count=8&layout=compact" alt="Language Stats">
         </a>
       </p>
     </td>

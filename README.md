@@ -99,16 +99,17 @@
       </p>
     </td>
   </tr>
-<!--   <tr colspan="2">
-    <td width="100%">
-      <h3 align="center"><strong>Language Percentages</strong></h3>
+ <!-- Languages used Stats -->
+  <tr>
+    <td colspan="2">
+      <h4 align="center"><strong>Language Percentages</strong></h4>
       <p align="center">
         <a href="https://github.com/Nava-stack">
           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nava-stack&theme=nightowl&langs_count=8&layout=compact" alt="Language Stats">
         </a>
       </p>
     </td>
-  </tr> -->
+  </tr>
 </table>
 <!-- Thick Line -->
 <hr style="border: 3px solid #444; width: 90%; margin: 0 auto;">

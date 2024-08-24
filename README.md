@@ -76,7 +76,7 @@
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22"> My Statistics <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22"> </h2>
 
 <table align="center" width="100%">
-<tr border="none">
+<tr>
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
@@ -90,6 +90,16 @@
       <p align="center">
         <a href="https://github.com/Nava-stack">
           <img align="center" src="https://streak-stats.demolab.com?user=Nava-stack&theme=algolia&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <h3 align="center"><strong>Language Percentages</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Nava-stack">
+          ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nava-stack&langs_count=8&layout=compact)
         </a>
       </p>
     </td>

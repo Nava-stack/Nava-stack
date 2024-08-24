@@ -19,7 +19,7 @@
 - ⚡ Fun fact **Call me as Rasan**
 
 <br>
-<h3 align="left">Connect with me:</h3>
+##<b align="left">Connect with Me</b>
 <p align="left">
 <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navarasan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9565088/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="navarasan" height="30" width="40" /></a>
@@ -69,7 +69,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Nava-stack/Nava-stack/main/gifs/haha.gif" width="25px"> Github stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 <p align="center">
     <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=Nava-stack&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"

@@ -78,12 +78,12 @@
 <hr style="border: 3px solid #444; width: 90%; margin: 0 auto;">
 
 <!-- My Statistics -->  
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22"> My Statistics <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22"> </h2>
+<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22"> My Statistics <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22"> </h3>
 
 <table align="center">
 <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <h4 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h4>
       <p align="center">
         <a href="https://github.com/Nava-stack">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=nava-stack&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
@@ -91,7 +91,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <h4 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h4>
       <p align="center">
         <a href="https://github.com/Nava-stack">
           <img align="center" src="https://streak-stats.demolab.com?user=Nava-stack&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />

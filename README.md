@@ -94,7 +94,7 @@
       </p>
     </td>
   </tr>
-  <tr colspan="2">
+<!--   <tr colspan="2">
     <td width="100%">
       <h3 align="center"><strong>Language Percentages</strong></h3>
       <p align="center">
@@ -103,7 +103,7 @@
         </a>
       </p>
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 <!--Connect with Me Section--> 

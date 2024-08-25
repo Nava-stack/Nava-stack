@@ -115,7 +115,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://skillicons.dev" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin,stackoverflow,twitter,gmail" alt="navarasan" height="50" width="50"/>
+    <img src="https://skillicons.dev/icons?i=linkedin,stackoverflow,twitter,gmail" alt="navarasan" />
   </a>
 <!--   <a href="https://stackoverflow.com/" target="blank">
     <img src="https://skillicons.dev/icons?i=stackoverflow" alt="navarasan" height="50" width="50"/>

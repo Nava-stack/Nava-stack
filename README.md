@@ -116,7 +116,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="navarasan" height="50" width="50" /></a>
 <a href="https://stackoverflow.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="navarasan" height="50" width="50" /></a>
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="navarasan" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/twitter.svg" alt="navarasan" height="50" width="50" /></a>
 <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="navarasan" height="50" width="50" /></a>
 </p>
 
